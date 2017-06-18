@@ -39,14 +39,6 @@
 		text-align: center;
 	}
 
- .text-header {
- 	margin-top: 120px;
- }
-
- .header {
- 	height: 100vh;
- }
- 
 
 	
 }
@@ -71,7 +63,11 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
-	
+	 .text-header {
+ 	margin-top: 100px;
+ }
+
+
 }
 
 /* Small Devices, Tablets */
