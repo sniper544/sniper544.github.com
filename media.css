@@ -39,13 +39,17 @@
 		text-align: center;
 	}
 
-
+.text-header {
+ 	margin-top: 50px;
+ }
 	
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-
+.text-header {
+ 	margin-top: 50px;
+ }
 }
 
 /* Custom, iPhone Retina */
